@@ -1,0 +1,73 @@
+/* Reset básico */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+}
+.frente {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(45deg, rgb(11, 206, 240), rgb(192, 22, 101));
+}
+
+.container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 1.5em;
+}
+
+header {
+    background-color: #333;
+    color: #f8f4f4;
+    padding: 60px 0;
+    text-align: center;
+}
+
+
+header h1 {
+    font-size: 3em;
+}
+
+header p {
+    font-size: 1.5em;
+}
+
+section {
+    padding: 40px 0;
+    text-align: center;
+}
+
+/*#portfolio {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(45deg, cyan, yellow);
+}
+*/
+.portfolio-item {
+    margin-bottom: 40px;
+}
+
+.portfolio-item img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+/*footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+*/
+.container_baixo {
+    background-color: #333 ;
+    color: #fff;
+    text-align: center;
+    padding: 1% 0;
+}
