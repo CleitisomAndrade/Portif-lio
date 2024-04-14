@@ -8,7 +8,7 @@ body, html {
 }
 .frente {
     font-family: Arial, Helvetica, sans-serif;
-    background-image: linear-gradient(45deg, rgb(11, 206, 240), rgb(192, 22, 101));
+    background-image: linear-gradient(45deg, rgb(69, 194, 243), rgb(114, 204, 133));
 }
 
 .container {
@@ -41,11 +41,11 @@ section {
     text-align: center;
 }
 
-/*#portfolio {
+*#portfolio {
     font-family: Arial, Helvetica, sans-serif;
     background-image: linear-gradient(45deg, cyan, yellow);
 }
-*/
+
 .portfolio-item {
     margin-bottom: 40px;
 }
@@ -71,3 +71,10 @@ section {
     text-align: center;
     padding: 1% 0;
 }
+/*
+.apresentacao {
+    display: flex;
+    align-items: center; /*alinda os itens para o Centro, conforme a imagem
+
+}
+*/
